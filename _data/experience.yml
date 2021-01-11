@@ -1,4 +1,11 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
+- role: Technical and Management Team
+  company: HostelDevta
+  dates: 2020-
+  link: https://hosteldevta.live
+  logo: hosteldevta.svg
+
+- role: i4D Intern
+  company: Defence Innovation Organisation
   dates: Summer 2020
-  logo: fellowship.svg
+  link: http://idex.gov.in/
+  logo: idex-dio.svg
