@@ -6,10 +6,9 @@
         <img src="./assets/img/education/{{ item.logo }}">
       </div>
       <div class="info">
-        <p class="title">{{ item.course }}</p>
+        <p class="title"><a href="{{item.link}}" target="_blank">{{ item.course }}</a></p>
         <p class="location">{{ item.institute }}</p>
         <p class="link">{{ item.link }}</p>
-        <p class="dates">{{ item.dates }}</p>
       </div>
     </div>
     {% endfor %}
