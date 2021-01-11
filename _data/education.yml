@@ -1,10 +1,25 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: BTech. Electrical Engineering
+  institute: National Institute of Technology Silchar
+  dates: 2019 - 2023
+  link: nits.ac.in
+  logo: nits.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
+- course: Full Stack Development
+  institute: Hong Kong University of Science and Technology (Coursera)
+  dates: 2020
+  link: https://www.coursera.org/account/accomplishments/specialization/certificate/R7H3ZETZTURQ
+  logo: coursera.svg
+  
+- course: Google IT Automation with Python
+  institute: Google
+  dates: 2020
+  link: https://www.coursera.org/account/accomplishments/specialization/certificate/JPLJ92SCFK6W
+  logo: google.svg
+
+- course: DeepLearning.AI TensorFlow Developer
+  institute: deeplearning.ai
+  dates: 2020
+  link: https://www.coursera.org/account/accomplishments/specialization/certificate/4KH9FHTQZDLM
+  logo: deep-learning.svg
+
   
